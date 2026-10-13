@@ -1,0 +1,29 @@
+[
+  {
+    "id": "sv",
+    "short": "SV",
+    "name": "Statenvertaling",
+    "year": "1637",
+    "teaser": "De klassieke tekst, zo letterlijk als het Nederlands toelaat.",
+    "nameEn": "States Translation",
+    "teaserEn": "The classic Dutch text, as literal as the language allows."
+  },
+  {
+    "id": "hsv",
+    "short": "SV · modern",
+    "name": "Statenvertaling · moderne spelling",
+    "year": "eigentijds",
+    "teaser": "Zelfde grondtekst, in hedendaagse spelling en woordkeus.",
+    "nameEn": "Statenvertaling · modern spelling",
+    "teaserEn": "The same base text, in contemporary spelling and wording."
+  },
+  {
+    "id": "kjv",
+    "short": "KJV",
+    "name": "King James Version",
+    "year": "1611",
+    "teaser": "The classic English text, as literal as the language allows.",
+    "nameEn": "King James Version",
+    "teaserEn": "The classic English text, as literal as the language allows."
+  }
+]
