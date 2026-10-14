@@ -1,0 +1,40 @@
+{
+  "prayers": [
+    {
+      "id": "prayer_before_scripture",
+      "category": "Schriftlezing",
+      "title_nl": "Gebed vóór het lezen van de Heilige Schrift",
+      "source_father": "H. Johannes Chrysostomus",
+      "rubric_nl": "Wordt in stilte gebeden vóór het openen van de Bijbel.",
+      "content_nl": "Heer Jezus Christus, open de ogen van mijn hart, opdat ik Uw Woord mag horen en Uw wil mag verstaan en volbrengen. Want ik ben een vreemdeling op aarde; verberg Uw geboden niet voor mij, maar open mijn ogen, opdat ik de wonderen van Uw wet mag aanschouwen. Op U stel ik mijn hoop, o mijn God, dat Gij mijn verstand en mijn hart zult verlichten door de genade van Uw Heilige Geest. Amen.",
+      "kyrie_ending_count": 0
+    },
+    {
+      "id": "prayer_jesus_prayer",
+      "category": "Inkeer & Hesychia",
+      "title_nl": "Het Jezusgebed",
+      "source_father": "De Woestijnvaders",
+      "rubric_nl": "Kan op elk uur in stilte met de ademhaling worden gebeden.",
+      "content_nl": "Heer Jezus Christus, Zoon van God, ontferm U over mij, zondaar.",
+      "kyrie_ending_count": 0
+    },
+    {
+      "id": "prayer_nicene_creed",
+      "category": "Geloofsbelijdenis",
+      "title_nl": "De Orthodoxe Geloofsbelijdenis (Nicea-Constantinopel)",
+      "source_father": "Concilies van Nicea (325) & Constantinopel (381)",
+      "rubric_nl": "Wij geloven in één God:",
+      "content_nl": "Wij geloven in één God, de almachtige Vader, Schepper van hemel en aarde, van alle zichtbare en onzichtbare dingen.\nEn in één Heer, Jezus Christus, de eniggeboren Zoon van God, vóór alle eeuwen uit de Vader geboren: Licht uit Licht, waarachtig God uit waarachtig God, geboren, niet geschapen, één in wezen met de Vader, door Wie alles is geworden; die omwille van ons mensen en omwille van ons heil is neergedaald uit de hemel en vlees is geworden uit de Heilige Geest en uit de Maagd Maria, en mens is geworden...",
+      "kyrie_ending_count": 0
+    },
+    {
+      "id": "prayer_repentance_ephraim",
+      "category": "Boete & Inkeer",
+      "title_nl": "Gebed van de H. Efraïm de Syriër",
+      "source_father": "H. Efraïm de Syriër",
+      "rubric_nl": "Met drie diepe buigingen (metanieën):",
+      "content_nl": "Heer en Meester van mijn leven, geef mij niet de geest van traagheid, moedeloosheid, heerszucht en ijdel gepraat.\nMaar schenk mij, Uw dienaar, de geest van kuisheid, ootmoed, geduld en liefde.\nJa, Heer en Koning, geef mij mijn eigen fouten te zien en mijn broeder niet te veroordelen, want Gij zijt gezegend tot in de eeuwen der eeuwen. Amen.",
+      "kyrie_ending_count": 0
+    }
+  ]
+}

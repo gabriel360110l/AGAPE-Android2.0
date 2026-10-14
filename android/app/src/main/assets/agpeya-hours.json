@@ -1,0 +1,144 @@
+{
+  "hours": [
+    {
+      "id": "prime",
+      "title_nl": "Het Eerste Uur (Prime)",
+      "title_en": "The First Hour (Prime)",
+      "coptic_title": "Ⲓⲧⲟ ⲁ̀",
+      "theme_nl": "Herdenking van de Verrijzenis van Christus en dankzegging bij het aanbreken van de dag.",
+      "artwork": "Art/galilee.jpg",
+      "sections": [
+        {
+          "id": "intro_invocation",
+          "type": "prayer",
+          "title_nl": "Aanvang van het Gebed",
+          "rubric_nl": "In de naam van de Vader en de Zoon en de Heilige Geest, één God. Amen.",
+          "body_nl": "Heer, ontferm U. Heer, ontferm U. Heer, zegen ons. Amen.\nEer aan de Vader en de Zoon en de Heilige Geest, nu en altijd en tot in de eeuwen der eeuwen. Amen.",
+          "kyrie_count": 0
+        },
+        {
+          "id": "lords_prayer_opening",
+          "type": "prayer",
+          "title_nl": "Het Onze Vader",
+          "rubric_nl": "Maak ons waardig, o Heer, om in dankbaarheid te zeggen:",
+          "body_nl": "Onze Vader, die in de hemelen zijt, Uw naam worde geheiligd, Uw rijk kome, Uw wil geschiede op aarde zoals in de hemel. Geef ons heden ons dagelijks brood, en vergeef ons onze schulden, zoals ook wij vergeven aan onze schuldenaren, en breng ons niet in beproeving, maar verlos ons van het kwade. Door Christus Jezus onze Heer, want van U is het koninkrijk, de kracht en de heerlijkheid tot in eeuwigheid. Amen.",
+          "kyrie_count": 0
+        },
+        {
+          "id": "thanksgiving_prayer",
+          "type": "prayer",
+          "title_nl": "Het Dankgebed",
+          "rubric_nl": "Laat ons God de Almachtige danken, de Vader van onze Heer, God en Heiland Jezus Christus:",
+          "body_nl": "Wij danken U, o weldadige en barmhartige Heer, Vader van onze Heer, God en Heiland Jezus Christus, dat Gij ons hebt beschermd, geholpen, bewaard en tot U hebt aangenomen, ons hebt gespaard, ondersteund en ons tot dit uur hebt gebracht.",
+          "kyrie_count": 0
+        },
+        {
+          "id": "psalm_50",
+          "type": "psalm",
+          "title_nl": "Psalm 50 (51)",
+          "rubric_nl": "Ontferm U over mij, o God, naar Uw grote barmhartigheid:",
+          "body_nl": "Ontferm U over mij, o God, naar Uw grote barmhartigheid, en delg mijn ongerechtigheid uit naar de volheid van Uw ontferming. Was mij geheel van mijn ongerechtigheid en reinig mij van mijn zonde... Alleluia.",
+          "kyrie_count": 0
+        },
+        {
+          "id": "psalms_of_the_hour",
+          "type": "psalm_group",
+          "title_nl": "Psalmen van het Eerste Uur",
+          "rubric_nl": "Uit de Psalmen van onze vader David de profeet, moge zijn heilige zegen met ons zijn. Amen.",
+          "body_nl": "Psalm 1: Zalig de man die niet wandelt in de raad der goddelozen...\nPsalm 2: Waarom woeden de volken en zinnen de natiën op ijdelheid...\nPsalm 3: O Heer, waarom zijn zij zo talrijk die mij verdrukken...\nPsalm 62 (63): O God, mijn God, tot U waak ik in de vroege morgen... Alleluia.",
+          "kyrie_count": 0
+        },
+        {
+          "id": "gospel_prime",
+          "type": "gospel",
+          "title_nl": "Heilig Evangelie volgens Johannes (1:1–17)",
+          "rubric_nl": "Gezegend is Hij die komt in de naam des Heren. Onze Heer, God en Heiland en Koning van ons allen, Jezus Christus, de Zoon van de levende God, aan Wie de heerlijkheid zij tot in eeuwigheid. Amen.",
+          "body_nl": "In het begin was het Woord, en het Woord was bij God, en het Woord was God. Dit was in het begin bij God. Alles is door Hem ontstaan, en zonder Hem is niets ontstaan van wat bestaat. In Hem was leven, en het leven was het licht der mensen; en het licht schijnt in de duisternis, en de duisternis heeft het niet gegrepen...\nGlorie zij God tot in eeuwigheid. Amen.",
+          "kyrie_count": 0
+        },
+        {
+          "id": "litanies_prime",
+          "type": "litanies",
+          "title_nl": "De Korte Gebeden (Litanieën / El-Qeta')",
+          "rubric_nl": "Vervolgens worden de smeekbeden van het Eerste Uur gebeden:",
+          "body_nl": "1. O Waarachtig Licht dat ieder mens verlicht die in de wereld komt: Gij zijt in de wereld gekomen door Uw menslievendheid, en heel de schepping verheugde zich over Uw komst.\n\nⲄⲟⲿⲁ ⲐⲁⲤⲡⲉ ⲕⲅ Ⲩ̀ⲉⲩ ⲕⲅ Ⲁ̀ⲃⲉⲩ Ⲑ̀ⲝⲅⲥⲙⲁⲤⲉ (Eer aan de Vader en de Zoon en de Heilige Geest).\n\n2. Terwijl de dag over ons aanbreekt, o Christus onze God, het Waarachtige Licht, laat de zintuigen en gedachten van onze ziel schijnen met het licht van Uw goddelijke kennis.\n\nⲔⲅ ⲝⲥⲝ ⲕⲅ ⲁ̀ⲉ̀ ⲕⲅ ⲉⲟ Ⲥⲟⲥⲟ ⲅ̀ⲩ̀ⲝⲁⲟ Ⲥⲩⲝ ⲅ̀ⲩ̀ⲝⲩⲝ. Ⲁ̀ⲙⲙ̀ⲝ (Nu en altijd en tot in de eeuwen der eeuwen. Amen).\n\n3. U prijzen alle rangen der engelen en de hemelse legerscharen, o Moeder Gods en altijd-Maagd Maria.",
+          "kyrie_count": 0
+        },
+        {
+          "id": "kyrie_eleison_canonical_41",
+          "type": "kyrie_41",
+          "title_nl": "Kyrie Eleison (41 maal)",
+          "rubric_nl": "Vervolgens zegt de gelovige 41 maal 'Kyrie Eleison' (Heer, ontferm U) ter gedachtenis aan de 39 zweepslagen, de doornenkroon en de lanssteek in de zijde van onze Heiland.",
+          "body_nl": "Ⲕⲥⲡⲉⲛ ⲅ̀ⲗⲅⲙ̀ⲟⲟⲝ — Heer, ontferm U.",
+          "kyrie_count": 41
+        },
+        {
+          "id": "trisagion",
+          "type": "prayer",
+          "title_nl": "Heilig, Heilig, Heilig (Trisagion)",
+          "rubric_nl": "Wordt driemaal gebeden, gevolgd door het Onze Vader:",
+          "body_nl": "Heilig God, Heilig Sterke, Heilig Onsterfelijke, die uit de Maagd geboren zijt, ontferm U over ons.\nHeilig God, Heilig Sterke, Heilig Onsterfelijke, die voor ons gekruisigd zijt, ontferm U over ons.\nHeilig God, Heilig Sterke, Heilig Onsterfelijke, die op de derde dag verrezen zijt en opgevaren naar de hemelen, ontferm U over ons.\nEer aan de Vader en de Zoon en de Heilige Geest, nu en altijd en tot in de eeuwen der eeuwen. Amen.\nO Heilige Drie-eenheid, ontferm U over ons.\nHeer, vergeef ons onze zonden. Heer, vergeef ons onze ongerechtigheden. Heer, vergeef ons onze overtredingen.\nHeer, ontferm U. Heer, ontferm U. Heer, ontferm U (3×).",
+          "kyrie_count": 3
+        },
+        {
+          "id": "absolution_prime",
+          "type": "absolution",
+          "title_nl": "De Absolutie van het Eerste Uur",
+          "rubric_nl": "Slotgebed en Absolutie:",
+          "body_nl": "O Heer, God der legerscharen, die bestond vóór alle eeuwen en blijft tot in alle eeuwen, die de zon hebt geschapen tot verlichting van de dag en de nacht tot rust voor alle vlees: wij danken U, o Koning der eeuwen, dat Gij ons deze nacht in vrede hebt doen doorbrengen en ons hebt gebracht tot het begin van de dag. Daarom vragen wij U, onze Koning en Meester: laat het licht van Uw waarheid over ons opgaan en verlicht ons met het licht van Uw goddelijke kennis. Amen.",
+          "kyrie_count": 0
+        }
+      ]
+    },
+    {
+      "id": "compline",
+      "title_nl": "Het Gebed voor het Slapengaan (Compline)",
+      "title_en": "The Twelfth Hour (Compline)",
+      "coptic_title": "Ⲓⲧⲟ ⲉ̀Ⲃ̀",
+      "theme_nl": "Herdenking van de Graflegging van Christus en voorbereiding op de rust van de nacht.",
+      "artwork": "Art/night.jpg",
+      "sections": [
+        {
+          "id": "compline_intro",
+          "type": "prayer",
+          "title_nl": "Aanvang & Dankgebed",
+          "rubric_nl": "In de naam van de Vader en de Zoon en de Heilige Geest, één God. Amen.",
+          "body_nl": "Wij danken U, o barmhartige Heer, dat Gij ons deze dag in vrede hebt geschonken en ons tot de avond hebt geleid...",
+          "kyrie_count": 0
+        },
+        {
+          "id": "compline_gospel",
+          "type": "gospel",
+          "title_nl": "Heilig Evangelie volgens Lucas (2:25–32)",
+          "rubric_nl": "De lofzang van de rechtvaardige Simeon:",
+          "body_nl": "Nu laat Gij, Heer, Uw dienaar gaan in vrede, naar Uw woord; want mijn ogen hebben Uw heil aanschouwd, dat Gij hebt bereid voor het aanschijn van alle volken: een licht tot openbaring voor de heidenen en tot heerlijkheid van Uw volk Israël.",
+          "kyrie_count": 0
+        },
+        {
+          "id": "compline_litanies",
+          "type": "litanies",
+          "title_nl": "De Korte Gebeden van het Slapengaan",
+          "rubric_nl": "Smeekbeden bij het naderen van de nacht:",
+          "body_nl": "1. Zie, ik zal binnenkort staan voor de rechtbank van Christus; daarom buig ik mijn knieën en smeek Uw goedheid: vergeef mij mijn overtredingen.\n\nⲄⲟⲿⲁ ⲐⲁⲤⲡⲉ ⲕⲅ Ⲩ̀ⲉⲩ ⲕⲅ Ⲁ̀ⲃⲉⲩ Ⲑ̀ⲝⲅⲥⲙⲁⲤⲉ.\n\n2. Schenk ons, o Heer, een rustige slaap zonder angst, en bewaar ons voor alle duistere verzoekingen.",
+          "kyrie_count": 0
+        },
+        {
+          "id": "compline_kyrie_41",
+          "type": "kyrie_41",
+          "title_nl": "Kyrie Eleison (41 maal)",
+          "rubric_nl": "Vervolgens zegt de gelovige 41 maal 'Kyrie Eleison' (Heer, ontferm U) vóór het Trisagion en het Onze Vader.",
+          "body_nl": "Ⲕⲥⲡⲉⲛ ⲅ̀ⲗⲅⲙ̀ⲟⲟⲝ — Heer, ontferm U.",
+          "kyrie_count": 41
+        },
+        {
+          "id": "compline_absolution",
+          "type": "absolution",
+          "title_nl": "De Absolutie van het Slapengaan",
+          "rubric_nl": "Heer, alle zonden die wij tegen U hebben bedreven op deze dag:",
+          "body_nl": "In daad, in woord of in gedachte, of met al onze zintuigen: vergeef en scheld ons die kwijt omwille van Uw heilige Naam, als een Goede en Menslievende God. Schenk ons een vredige nacht en een slaap vrij van alle onrust. Amen.",
+          "kyrie_count": 0
+        }
+      ]
+    }
+  ]
+}
